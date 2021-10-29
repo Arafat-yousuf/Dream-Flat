@@ -59,6 +59,7 @@ and set Authentication as **Windows Authentication** and then click connect. you
 ## Developers
 - Tashfiq Ahmed (170104038)
 - Arafat Yousuf (170104140)
+- Foisal Reza (170104152)
 
 
 ### Updates
