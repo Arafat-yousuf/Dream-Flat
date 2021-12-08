@@ -2,7 +2,37 @@
 DreamFlat is your Ultimate Need for Real Estate solution in the world. 
 
 ## Introduction:
-DreamFlat is the BEST real estate service in BD completely equipped with Buying, Selling, Renting and Bidding features. It also provides Developer APIs with complete documentation. 
+DreamFlat is the BEST real estate service in BD completely equipped with Buying, Selling, Renting and Bidding features. It also provides Developer APIs with complete documentation.
+
+## Features:
+
+* **Homepage**
+
+![home1](assets/home.png)
+![home2](assets/home2.png)
+
+* **Login/Signup/Recovery**
+
+![login](assets/login.png)
+![register](assets/register.png)
+![recovery](assets/recovery.png)
+
+* **Property Details**
+
+![prop](assets/prop_details.png)
+
+* **Comparison/Wishlist**
+
+![comp](assets/comparison.png)
+![rec](assets/wishlist.png)
+
+* **Dashboard**
+
+![dash](assets/dashboard.png)
+
+* **About US**
+
+![about](assets/aboutus.png)
 
 ## System Requirements:
   - Visual Studio 2019
